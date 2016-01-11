@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="status_bar_color">#284F04</color>
+    <color name="primary_color">#05CDDD</color>
+
+    <color name="secondary_color">#05CDDD</color>
+
+    <color name="third_color">#c099cc00</color>
+    <color name="button_color">#05CDDD</color>
+
+    <color name="weixin_button_color">#21AD5A</color>
+
+    <color name="background_color">#F7F7F7</color>
+    <color name="placeholder_color">#DDD</color>
+
+    <color name="text_color">#666</color>
+    <color name="text_sub_color">#999</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey_333">#333</color>
+
+    <color name="rice_yellow">#F2E81E</color>
+
+    <color name="red">@android:color/holo_red_light</color>
+
+    <color name="blue">@android:color/holo_blue_light</color>
+
+    <!--波纹颜色-->
+    <color name="ripple_color">#ffffff</color>
+
+    <!--浅灰色-->
+    <color name="light_grey">#eee</color>
+
+    <!--全透明颜色-->
+    <color name="transparent">#00000000</color>
+
+
+
+
+    <!--普通和高亮-->
+    <color name="color_tabbar_nomarl">#adacac</color>
+    <color name="color_tabbar_select">#05cddd</color>
+
+    <color name="color_tabar_background">#f0f0f0</color>
+
+    <!--标题颜色-->
+    <color name="color_title">#444</color>
+    <!--副标题颜色-->
+    <color name="color_subtitle">#888</color>
+
+    <!--cell之间分割线的颜色-->
+    <color name="color_divider">#eee</color>
+
+    <!--点击菜单的背景色-->
+    <color name="color_cell_click">#eee</color>
+
+    <!--bootstrap的颜色样式-->
+    <color name="color_lish_primary">#428bca</color>
+    <color name="color_lish_success">#5cb85c</color>
+    <color name="color_lish_info">#5bc0de</color>
+    <color name="color_lish_warning">#f0ad4e</color>
+    <color name="color_lish_danger">#d9534f</color>
+
+
+    <color name="color_lish_half_primary">#80428bca</color>
+    <color name="color_lish_half_success">#805cb85c</color>
+    <color name="color_lish_half_info">#805bc0de</color>
+    <color name="color_lish_half_warning">#80f0ad4e</color>
+    <color name="color_lish_half_danger">#80d9534f</color>
+
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>

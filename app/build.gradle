@@ -24,4 +24,11 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
+
+    //lombok
+    compile 'org.projectlombok:lombok:1.16.4'
+    provided 'org.glassfish:javax.annotation:10.0-b28'
+
+    //引入gson.
+    compile 'com.google.code.gson:gson:2.3'
 }
